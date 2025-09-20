@@ -128,7 +128,6 @@
           <version>2.2.1</version>
         </plugin>
 
-               <build>
   <plugins>
     <plugin>
       <groupId>org.apache.maven.plugins</groupId>
@@ -140,7 +139,7 @@
       </configuration>
     </plugin>
   </plugins>
-</build>
+
 
 
         <plugin>
